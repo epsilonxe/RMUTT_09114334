@@ -77,17 +77,6 @@ If you are planning to send your LaTeX sources to destinations which process
 them, such as publishers, conference organisers or pre-print servers
 (e.g. arXiv), you should check what restrictions they impose.
 
-## Exercise
-
-Get yourself set up with a local LaTeX installation _or_ an account with
-an online LaTeX service. If you are using a local installation, you'll need
-to pick an editor too: we recommend starting with either TeXworks or TeX Shop
-(see above), then looking at other editors later once you know how _you_
-work best with LaTeX.
-
-You'll be able to [run all of our other exercises in your browser](help.md), but we want
-to help you get working with real documents, so now is a great time to get
-yourself ready.
 
 # "More on: Working with LaTeX"
 ---
@@ -119,3 +108,15 @@ If you are in Japan, or writing lots of Japanese, you might also come across
 pTeX and upTeX. These are specialized engines for vertical typesetting. LuaTeX
 can also do a lot of this, but at the moment upTeX, in particular, is still
 the most popular system for Japanese.
+
+# Exercise
+
+Get yourself set up with a local LaTeX installation _or_ an account with
+an online LaTeX service. If you are using a local installation, you'll need
+to pick an editor too: we recommend starting with either TeXworks or TeX Shop
+(see above), then looking at other editors later once you know how _you_
+work best with LaTeX.
+
+You'll be able to [run all of our other exercises in your browser](help.md), but we want
+to help you get working with real documents, so now is a great time to get
+yourself ready.

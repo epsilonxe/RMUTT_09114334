@@ -33,7 +33,7 @@ than once. We'll tell you when that's the case.
 
 ## LaTeX or pdfLaTeX or ...
 
-In the [next lesson](lesson-02), we are going to see that LaTeX is not a
+In the [next lesson](../lesson-02), we are going to see that LaTeX is not a
 single program. To keep things simple, we are going to focus on one particular
 LaTeX Program, pdfLaTeX, for creating your PDFs. We will look at some other
 programs, and why you might want to use them, later in the course.
