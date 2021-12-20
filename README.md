@@ -17,7 +17,7 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 | Title | Material |
 |----------|---------------|
 | The not so Short Introduction to LaTex | [Download](./materials/lshort.pdf) |
-| Maple Basic 1 | [Download](./materials/basic_1.pdf) |
+| LaTeX basics | [Tutorial 1](./lesson/01/) [Tutorial 2](./lesson/01/)  |
 | Maple Basic 2 | [Download](./materials/basic_2.pdf) |
 | Maple Basic 3 | [Download](./materials/basic_3.pdf) |
 | Maple Reference  | [Download](./materials/reference.pdf) |
