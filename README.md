@@ -19,6 +19,9 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 | The not so Short Introduction to LaTex | [Download](materials/lshort.pdf) |
 | LaTeX basics | [Tutorial](lessons/01) |
 | Working with LaTeX | [Tutorial](lessons/02) |
+| LaTeX document structure | [Tutorial](lessons/03) |
+
+
 
 
 ## Workshops

@@ -88,7 +88,7 @@ it is perhaps the most widely-used system and directly produces PDF files.
 
 ## Formats and engines
 
-As described [earlier](more-01), LaTeX is built on a system called TeX. We
+As described earlier, LaTeX is built on a system called TeX. We
 call LaTeX a 'format': a collection of macros (instructions and commands) that
 TeX understands. When you run `pdflatex`, you are _actually_ starting a
 program called 'pdfTeX' with a pre-loaded 'LaTeX format'. We normally call
@@ -100,7 +100,7 @@ There are three engines in common use today:
 - XeTeX
 - LuaTeX
 
-We will cover [XeTeX and LuaTeX later](lesson-14): the main thing we need to
+We will cover XeTeX and LuaTeX later: the main thing we need to
 know now is that they are capable of loading operating system fonts, whereas
 pdfTeX can't do that.
 
