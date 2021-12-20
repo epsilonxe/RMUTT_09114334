@@ -20,6 +20,7 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 | LaTeX basics | [Tutorial](lessons/01) |
 | Working with LaTeX | [Tutorial](lessons/02) |
 | LaTeX document structure | [Tutorial](lessons/03) |
+| Logical structure | [Tutorial](lessons/04) |
 
 
 
