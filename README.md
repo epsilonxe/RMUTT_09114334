@@ -1,11 +1,18 @@
-# RMUTT_09114334
-Official Repository for RMUTT 09114334: Professional Document Preparation System
+# RMUTT 09114334
+Official Repository for RMUTT 09114334: ระบบการจัดเตรียมเอกสารอย่างมืออาชีพ -  Professional Document Preparation System
+
+Lecturer: Ratthaprom Promkam, Dr.rer.nat
+
 
 ## Course Description
+
+เทกซ์เอ็นจิ้น ลาเทกซ์เอ็นจิ้น องค์ประกอบร่วมของเอกสาร กลไกการเรียงพิมพ์ การเรียงพิมพ์ข้อความเชิงเทคนิค กราฟฟิคในงานเอกสารสมัยใหม่ การโปรแกรมบนลาเทกซ์ การจัดการเอกสารอ้างอิง และปฏิบัติการที่เกี่ยวข้อง
 
 TeX engines, LaTeX engines, common elements in documents, mechanics of typesetting, technical text typesetting, graphics in modern documents, programming in LaTeX, references management and related laboratory
 
 ## Schedules
+
+เรียนทฤษฎีและปฏิบัติการที่ ห้อง ST1905 คณะวิทยาศาสตร์และเทคโนโลยี/ เรียนออนไลน์ผ่านระบบ Microsoft Teams หรือเป็นไปตามประกาศของมหาวิทยาลัย
 
 |Activity|  Date | Time | Location |
 |--------|-------|------|----------|
@@ -14,14 +21,14 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 
 ## Class Materials
 
-| Title | Material |
-|----------|---------------|
-| The not so Short Introduction to LaTex | [Download](materials/lshort.pdf) |
-| LaTeX basics | [Tutorial](lessons/01) |
-| Working with LaTeX | [Tutorial](lessons/02) |
-| LaTeX document structure | [Tutorial](lessons/03) |
-| Logical structure | [Tutorial](lessons/04) |
-
+|   | Title    |   Description | Material |
+|---|----------|---------------|----------|
+|01 | Things You Need to Know | ... | [Download](/materials/ch_01.pdf) |
+|02 | Typesetting Text | ... | [Download](/materials/ch_02.pdf) |
+|03 | Typesetting Mathematical Formulae | ... | [Download](/materials/ch_03.pdf) |
+|04 | Specialities | ... | [Download](/materials/ch_04.pdf) |
+|05 | Producing Mathematical Graphics | ... | [Download](/materials/ch_05.pdf) |
+|06 | Customising LaTeX | ... | [Download](/materials/ch_06.pdf) |
 
 
 
@@ -29,4 +36,4 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 
 | LAB | Download URL |
 |-----|--------------|
-| LAB 1 | [Problems](./materials/lab_01.pdf) |
+| LAB 1 | [Problems](/materials/lab_01.pdf) |
