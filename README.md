@@ -3,6 +3,8 @@ Official Repository for RMUTT 09114334: ระบบการจัดเตร�
 
 Lecturer: Ratthaprom Promkam, Dr.rer.nat
 
+![LaTeX Cover](/materials/latex_cover.png "LaTeX Cover")
+
 
 ## คำอธิบายรายวิชา
 
@@ -14,7 +16,7 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 
 เรียนทฤษฎีและปฏิบัติการที่ ห้อง ST1905 คณะวิทยาศาสตร์และเทคโนโลยี/ เรียนออนไลน์ผ่านระบบ Microsoft Teams หรือเป็นไปตามประกาศของมหาวิทยาลัย
 
-|กิจกรรม|  วัน | เวลา | สถานที่ |
+|Activity|  Date | Time | Location |
 |--------|-------|------|----------|
 |Lecture| วันอังคาร | 13.00 - 14.00 | ST1905 หรือ MS Teams |
 |Workshop| วันอังคาร | 14.00 - 16.00 | ST1905 หรือ MS Teams |
@@ -31,8 +33,8 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 |06 | Customising LaTeX | ... | [Download](/materials/ch_06.pdf) |
 
 
-## Workshops
+## งานปฏิบัติการ
 
 | LAB | Download URL |
 |-----|--------------|
-| LAB 1 | [Problems](/materials/lab_01.pdf) |
+| 01 | [Problems](/materials/lab_01.pdf) |
