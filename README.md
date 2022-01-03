@@ -40,4 +40,4 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 | 01 | การใช้งาน LaTeX พื้นฐาน | [Download](/workshops/lab_01.pdf) |
 | 02 | การเรียงพิมพ์ทางคณิตศาสตร์พื้นฐาน | [Download](/workshops/lab_01.pdf) |
 | 03 | การเรียงพิมพ์ทางคณิตศาสตร์ที่มีความซับซ้อน | [Download](/workshops/lab_03.pdf) |
-| 04 - การเรียงพิมพ์นิยาม ทฤษฎี และบทพิสูจน์ทางคณิตศาสตร์ | [Download](/workshops/lab_04.pdf) |
+| 04 | การเรียงพิมพ์นิยาม ทฤษฎี และบทพิสูจน์ทางคณิตศาสตร์ | [Download](/workshops/lab_04.pdf) |
