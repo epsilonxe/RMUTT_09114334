@@ -3,7 +3,7 @@ Official Repository for RMUTT 09114334: ระบบการจัดเตร�
 
 Lecturer: Ratthaprom Promkam, Dr.rer.nat
 
-![LaTeX Cover](/materials/latex_cover.png "LaTeX Cover")
+![LaTeX Cover](/materials/latex_cover.png)
 
 
 ## คำอธิบายรายวิชา
