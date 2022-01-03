@@ -25,7 +25,7 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 
 |   | Title    |   Description | Material |
 |---|----------|---------------|----------|
-|01 | Things You Need to Know | ... | [Download](/materials/ch_01.pdf) |
+|01 | Things You Need to Know | ประวัติและพัฒนาการของ TeX/LaTeX โครงสร้างพื้นฐานของเอกสาร หลักการและความเข้าใจเบื้องต้นในการจัดเตรียมเอกสารด้วย LaTeX | [Download](/materials/ch_01.pdf) |
 |02 | Typesetting Text | ... | [Download](/materials/ch_02.pdf) |
 |03 | Typesetting Mathematical Formulae | ... | [Download](/materials/ch_03.pdf) |
 |04 | Specialities | ... | [Download](/materials/ch_04.pdf) |
