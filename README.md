@@ -25,12 +25,12 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 
 |   | Title    |   Description | Material |
 |---|----------|---------------|----------|
-|01 | Things You Need to Know | ประวัติและพัฒนาการของ TeX/LaTeX โครงสร้างพื้นฐานของเอกสาร หลักการและความเข้าใจเบื้องต้นในการจัดเตรียมเอกสารด้วย LaTeX | [Download](/materials/ch_01.pdf) |
-|02 | Typesetting Text | ... | [Download](/materials/ch_02.pdf) |
-|03 | Typesetting Mathematical Formulae | ... | [Download](/materials/ch_03.pdf) |
-|04 | Specialities | ... | [Download](/materials/ch_04.pdf) |
-|05 | Producing Mathematical Graphics | ... | [Download](/materials/ch_05.pdf) |
-|06 | Customising LaTeX | ... | [Download](/materials/ch_06.pdf) |
+|01 | Things You Need to Know | ประวัติและพัฒนาการของ TeX/LaTeX, โครงสร้างพื้นฐานของเอกสาร, หลักการและความเข้าใจเบื้องต้นในการจัดเตรียมเอกสารด้วย LaTeX | [Download](/materials/ch_01.pdf) |
+|02 | Typesetting Text | การเรียงพิมพ์เอกสาร, กลไกการเรียงพิมพ์, การใช้งานคำสั่ง (commands) และสิ่งแวดล้อม (environments) ของ LaTeX, การจัดทำเอกสารเบื้องต้น, การเรียงพิมพ์ในรูปแบบตาราง, การประสานกราฟฟิค, การจัดการเนื้อหาแบบลอยตัว (floating bodies) | [Download](/materials/ch_02.pdf) |
+|03 | Typesetting Mathematical Formulae | การเรียงพิมพ์นิพจน์ทางคณิตศาสตร์, ตัวอย่างการเรียงพิมพ์งานทางคณิตศาสตร์ที่น่าสนใจ, การเรียงพิมม์สัญกรณ์ทางคณิตศาสตร์ (mathematical symbols) | [Download](/materials/ch_03.pdf) |
+|04 | Specialities | การทำรายการดัชนี, การทำบรรณานุกรม, ข้อสำคัญและข้อควรระวังในการจัดเอกสาร | [Download](/materials/ch_04.pdf) |
+|05 | Producing Mathematical Graphics | การประสานกราฟฟิคทางคณิตศาตร์ความละเอียดสูง, การจัดทำกราฟฟิคแบบเวกเตอร์ด้วย LaTeX, ตัวอย่างการทำกราฟฟิคทางคณิตศาสตร์ที่น่าสนใจ | [Download](/materials/ch_05.pdf) |
+|06 | Customising LaTeX | การจัดเตรียมเอกสารขั้นสูง, การดัดแปลงเอกสารมาตรฐาน, การเพิ่มคำสั่งและสิ่งแวดล้อมโดยผู้ใช้, การเรียกใช้งานแพคเกจเพิ่มเติม | [Download](/materials/ch_06.pdf) |
 
 
 ## งานปฏิบัติการ
