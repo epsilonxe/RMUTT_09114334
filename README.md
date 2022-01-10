@@ -48,3 +48,10 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 | 09 | การทำเอกสารนำเสนอทางวิชาการ | [Download](/workshops/lab_09.pdf) |
 | 10 | การเขียนโครงงานคณิตศาสตร์ (ภาษาไทย) | [Download](/workshops/th_template.zip) |
 | 11 | การเขียนโครงงานคณิตศาสตร์ (English) | [Download](/workshops/en_template.zip) |
+
+
+## เอกสารอ้างอิง
+
+1. Frank Mittelbach et al. The LaTeX Companion. Addison-Wesley Professional, 2004.
+2. Leslie Lamport. LATEX: A Document Preparation System : User's Guide and Reference Manual. Addison-Wesley, 1994.
+3. George Grätzer. More Math Into LaTeX. Springer, 2016
