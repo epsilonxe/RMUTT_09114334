@@ -46,4 +46,4 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 | 07 | การนิยาม Commands และ Environments | [Download](/workshops/lab_07.pdf) |
 | 08 | การทำเอกสารภาษาไทย | [Download](/workshops/lab_08.pdf) |
 | 09 | การทำเอกสารนำเสนอทางวิชาการ | [Download](/workshops/lab_09.pdf) |
-| 10 | การเขียนโครงงานคณิตศาสตร์ | [Thai](/workshops/th_template.zip) [English](/workshops/en_template.zip) |
+| 10 | การเขียนโครงงานคณิตศาสตร์ | [Thai](/workshops/th_template.zip) and [English](/workshops/en_template.zip) |
