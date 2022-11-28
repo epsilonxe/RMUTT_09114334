@@ -1,7 +1,8 @@
 # RMUTT 09114334
 Official Repository for RMUTT 09114334: ระบบการจัดเตรียมเอกสารอย่างมืออาชีพ -  Professional Document Preparation System
 
-Lecturer: Ratthaprom Promkam, Dr.rer.nat
+Lecturer: Ratthaprom Promkam, Dr.rer.nat <br>
+Lecturer: Wongvisarut Khuangsatung, Asst.Prof.Dr.
 
 ![LaTeX Cover](/materials/latex_cover.jpg)
 
@@ -16,10 +17,12 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 
 เรียนทฤษฎีและปฏิบัติการที่ ห้อง ST1905 คณะวิทยาศาสตร์และเทคโนโลยี/ เรียนออนไลน์ผ่านระบบ Microsoft Teams หรือเป็นไปตามประกาศของมหาวิทยาลัย
 
-|Activity|  Date | Time | Location |
-|--------|-------|------|----------|
-|Lecture| วันอังคาร | 13.00 - 14.00 | ST1905 หรือ MS Teams |
-|Workshop| วันอังคาร | 14.00 - 16.00 | ST1905 หรือ MS Teams |
+|Section|Activity|  Date | Time | Location |
+|-------|--------|-------|------|----------|
+| 01    |Lecture| วันอังคาร | 08.00 - 10.00 | ST1905 หรือ MS Teams |
+| 01    |Workshop| วันอังคาร | 10.00 - 12.00 | ST1905 หรือ MS Teams |
+| 02    |Lecture| วันอังคาร | 13.00 - 15.00 | ST1905 หรือ MS Teams |
+| 02    |Workshop| วันอังคาร | 15.00 - 17.00 | ST1905 หรือ MS Teams |
 
 ## เอกสารประกอบการสอน
 
