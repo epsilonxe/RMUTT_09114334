@@ -39,7 +39,7 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 
 | Topic | Download |
 |-------|----------|
-| Introduction to LaTeX | [Slide](./slides/introduction.pdf) |
+| Introduction to LaTeX | [Slide](./materials/slides/introduction.pdf) |
 
 <!-- ## งานปฏิบัติการ Workshops
 
