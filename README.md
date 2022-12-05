@@ -37,8 +37,11 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 |05 | กราฟฟิคในงานคณิตศาสตร์ - Producing Mathematical Graphics | การทำกราฟฟิคทางคณิตศาตร์แบบเวกเตอร์ , ตัวอย่างการทำกราฟฟิคทางคณิตศาสตร์ที่น่าสนใจ | [Download](/materials/ch_05.pdf) |
 |06 | การจัดเตรียมเอกสารขั้นสูง - Customising LaTeX | การดัดแปลงเอกสารมาตรฐาน, การนิยาม Commands และ Environments โดยผู้ใช้, การเรียกใช้งานแพคเกจเพิ่มเติม | [Download](/materials/ch_06.pdf) |
 
+| Topic | Download |
+|-------|----------|
+| Introduction to LaTeX | [Slide](./slides/introduction.pdf) |
 
-## งานปฏิบัติการ Workshops
+<!-- ## งานปฏิบัติการ Workshops
 
 | LAB |    Description  |       |
 |-----|-----------------|-------|
@@ -52,7 +55,7 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 | 08 | การทำเอกสารภาษาไทย | [Download](/workshops/lab_08.pdf) |
 | 09 | การทำเอกสารนำเสนอทางวิชาการ | [Download](/workshops/lab_09.pdf) |
 | 10 | การเขียนโครงงานคณิตศาสตร์ (ภาษาไทย) | [Download](/workshops/th_template.zip) |
-| 11 | การเขียนโครงงานคณิตศาสตร์ (English) | [Download](/workshops/en_template.zip) |
+| 11 | การเขียนโครงงานคณิตศาสตร์ (English) | [Download](/workshops/en_template.zip) | -->
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
