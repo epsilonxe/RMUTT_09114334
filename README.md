@@ -30,7 +30,7 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 
 | #  | Title    |   Description | Material |
 |---|----------|---------------|----------|
-|01 | ความรู้เบื้องต้น - Things You Need to Know | ประวัติและพัฒนาการของ TeX/LaTeX, โครงสร้างพื้นฐานของเอกสาร, หลักการและความเข้าใจเบื้องต้นในการจัดเตรียมเอกสารด้วย LaTeX | [Article](/materials/ch_01.pdf) [Slide 1](./materials/slides/introduction.pdf)   |
+|01 | ความรู้เบื้องต้น - Things You Need to Know | ประวัติและพัฒนาการของ TeX/LaTeX, โครงสร้างพื้นฐานของเอกสาร, หลักการและความเข้าใจเบื้องต้นในการจัดเตรียมเอกสารด้วย LaTeX | [Article](/materials/ch_01.pdf) <br> [Slide 1](./materials/slides/introduction.pdf)   |
 |02 | การเรียงพิมพ์อักขระ - Typesetting Text | การเรียงพิมพ์เอกสาร, กลไกการเรียงพิมพ์, การใช้งานคำสั่ง (Commands) และสิ่งแวดล้อม (Environments) ของ LaTeX, การจัดทำเอกสารเบื้องต้น, การเรียงพิมพ์รายการ , การเรียงพิมพ์ในรูปแบบตาราง, การประสานกราฟฟิค, การจัดการเนื้อหาแบบลอยตัว (Floating Bodies) | [Download](/materials/ch_02.pdf) |
 |03 | การเรียงพิมพ์อักขระทางคณิตศาสตร์ - Typesetting Mathematical Formulae | การเรียงพิมพ์นิพจน์ทางคณิตศาสตร์, ตัวอย่างการเรียงพิมพ์งานทางคณิตศาสตร์ที่น่าสนใจ, การเรียงพิมม์สัญกรณ์ทางคณิตศาสตร์ (Mathematical Symbols) | [Download](/materials/ch_03.pdf) |
 |04 | หัวข้อพิเศษของเอกสาร - Specialities | การทำรายการดัชนี, การทำบรรณานุกรม, ข้อสำคัญและข้อควรระวังในการจัดเอกสาร | [Download](/materials/ch_04.pdf) |
