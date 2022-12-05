@@ -28,7 +28,14 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 
 ## เอกสารประกอบการสอน
 
-| Chapter  | Title    |   Description | Material |
+### Slides
+| #     |Topic     | Material |
+|-------|----------|----------|
+| 01    |Introduction to LaTeX | [Slide](./materials/slides/introduction.pdf) |
+
+
+### Articles
+| #  | Title    |   Description | Material |
 |---|----------|---------------|----------|
 |01 | ความรู้เบื้องต้น - Things You Need to Know | ประวัติและพัฒนาการของ TeX/LaTeX, โครงสร้างพื้นฐานของเอกสาร, หลักการและความเข้าใจเบื้องต้นในการจัดเตรียมเอกสารด้วย LaTeX | [Download](/materials/ch_01.pdf) |
 |02 | การเรียงพิมพ์อักขระ - Typesetting Text | การเรียงพิมพ์เอกสาร, กลไกการเรียงพิมพ์, การใช้งานคำสั่ง (Commands) และสิ่งแวดล้อม (Environments) ของ LaTeX, การจัดทำเอกสารเบื้องต้น, การเรียงพิมพ์รายการ , การเรียงพิมพ์ในรูปแบบตาราง, การประสานกราฟฟิค, การจัดการเนื้อหาแบบลอยตัว (Floating Bodies) | [Download](/materials/ch_02.pdf) |
