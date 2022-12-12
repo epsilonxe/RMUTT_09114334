@@ -30,7 +30,7 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 
 | #  | Title    |   Description | Material |
 |---|----------|---------------|----------|
-|01 | ความรู้เบื้องต้น - Things You Need to Know | ประวัติและพัฒนาการของ TeX/LaTeX, โครงสร้างพื้นฐานของเอกสาร, หลักการและความเข้าใจเบื้องต้นในการจัดเตรียมเอกสารด้วย LaTeX | [Tutorial](/materials/ch_01.pdf) <br> [Slide 1](./materials/slides/introduction.pdf)   |
+|01 | ความรู้เบื้องต้น - Things You Need to Know | ประวัติและพัฒนาการของ TeX/LaTeX, โครงสร้างพื้นฐานของเอกสาร, หลักการและความเข้าใจเบื้องต้นในการจัดเตรียมเอกสารด้วย LaTeX | [Tutorial](/materials/ch_01.pdf) <br> [Slide 1](./materials/slides/introduction.pdf) <br> [Slide 2](./materials/slides/basic.pdf)    |
 |02 | การเรียงพิมพ์อักขระ - Typesetting Text | การเรียงพิมพ์เอกสาร, กลไกการเรียงพิมพ์, การใช้งานคำสั่ง (Commands) และสิ่งแวดล้อม (Environments) ของ LaTeX, การจัดทำเอกสารเบื้องต้น, การเรียงพิมพ์รายการ , การเรียงพิมพ์ในรูปแบบตาราง, การประสานกราฟฟิค, การจัดการเนื้อหาแบบลอยตัว (Floating Bodies) | [Tutorial](/materials/ch_02.pdf) |
 |03 | การเรียงพิมพ์อักขระทางคณิตศาสตร์ - Typesetting Mathematical Formulae | การเรียงพิมพ์นิพจน์ทางคณิตศาสตร์, ตัวอย่างการเรียงพิมพ์งานทางคณิตศาสตร์ที่น่าสนใจ, การเรียงพิมม์สัญกรณ์ทางคณิตศาสตร์ (Mathematical Symbols) | [Tutorial](/materials/ch_03.pdf) |
 |04 | หัวข้อพิเศษของเอกสาร - Specialities | การทำรายการดัชนี, การทำบรรณานุกรม, ข้อสำคัญและข้อควรระวังในการจัดเอกสาร | [Tutorial](/materials/ch_04.pdf) |
@@ -38,12 +38,12 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 |06 | การจัดเตรียมเอกสารขั้นสูง - Customising LaTeX | การดัดแปลงเอกสารมาตรฐาน, การนิยาม Commands และ Environments โดยผู้ใช้, การเรียกใช้งานแพคเกจเพิ่มเติม | [Tutorial](/materials/ch_06.pdf) |
 
 
-<!-- ## งานปฏิบัติการ Workshops
+## งานปฏิบัติการ Workshops
 
 | LAB |    Description  |       |
 |-----|-----------------|-------|
-| 01 | การใช้งาน LaTeX พื้นฐาน | [Download](/workshops/lab_01.pdf) |
-| 02 | การเรียงพิมพ์ทางคณิตศาสตร์พื้นฐาน | [Download](/workshops/lab_02.pdf) |
+| 01 | การใช้งาน LaTeX พื้นฐาน | [Click](/workshops/01/) |
+<!-- | 02 | การเรียงพิมพ์ทางคณิตศาสตร์พื้นฐาน | [Download](/workshops/lab_02.pdf) |
 | 03 | การเรียงพิมพ์ทางคณิตศาสตร์ที่มีความซับซ้อน | [Download](/workshops/lab_03.pdf) |
 | 04 | การเรียงพิมพ์นิยาม ทฤษฎี และบทพิสูจน์ทางคณิตศาสตร์ | [Download](/workshops/lab_04.pdf) |
 | 05 | การทำตารางและรูปภาพ | [Download](/workshops/lab_05.pdf) |
@@ -52,7 +52,7 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 | 08 | การทำเอกสารภาษาไทย | [Download](/workshops/lab_08.pdf) |
 | 09 | การทำเอกสารนำเสนอทางวิชาการ | [Download](/workshops/lab_09.pdf) |
 | 10 | การเขียนโครงงานคณิตศาสตร์ (ภาษาไทย) | [Download](/workshops/th_template.zip) |
-| 11 | การเขียนโครงงานคณิตศาสตร์ (English) | [Download](/workshops/en_template.zip) | -->
+| 11 | การเขียนโครงงานคณิตศาสตร์ (English) | [Download](/workshops/en_template.zip)  -->|
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
