@@ -40,19 +40,19 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 
 ## งานปฏิบัติการ Workshops
 
-| LAB |    Description  |       |
+| LAB |    หัวข้อปฏิบัติการ  |       |
 |-----|-----------------|-------|
-| 01 | การใช้งาน LaTeX พื้นฐาน | [Click](/workshops/01/) |
-<!-- | 02 | การเรียงพิมพ์ทางคณิตศาสตร์พื้นฐาน | [Download](/workshops/lab_02.pdf) |
-| 03 | การเรียงพิมพ์ทางคณิตศาสตร์ที่มีความซับซ้อน | [Download](/workshops/lab_03.pdf) |
-| 04 | การเรียงพิมพ์นิยาม ทฤษฎี และบทพิสูจน์ทางคณิตศาสตร์ | [Download](/workshops/lab_04.pdf) |
-| 05 | การทำตารางและรูปภาพ | [Download](/workshops/lab_05.pdf) |
-| 06 | การทำเอกสารอ้างอิง | [Download](/workshops/lab_06.pdf) |
-| 07 | การนิยาม Commands และ Environments | [Download](/workshops/lab_07.pdf) |
-| 08 | การทำเอกสารภาษาไทย | [Download](/workshops/lab_08.pdf) |
-| 09 | การทำเอกสารนำเสนอทางวิชาการ | [Download](/workshops/lab_09.pdf) |
-| 10 | การเขียนโครงงานคณิตศาสตร์ (ภาษาไทย) | [Download](/workshops/th_template.zip) |
-| 11 | การเขียนโครงงานคณิตศาสตร์ (English) | [Download](/workshops/en_template.zip)  -->|
+| 01 | การใช้งาน LaTeX พื้นฐาน | [คำสั่ง](/workshops/01/) <br> [Download](/workshops/01/doc.pdf) |
+| 02 | การเรียงพิมพ์ทางคณิตศาสตร์พื้นฐาน |  |
+| 03 | การเรียงพิมพ์ทางคณิตศาสตร์ที่มีความซับซ้อน |  |
+| 04 | การเรียงพิมพ์นิยาม ทฤษฎี และบทพิสูจน์ทางคณิตศาสตร์ |  |
+| 05 | การทำตารางและรูปภาพ |  |
+| 06 | การทำเอกสารอ้างอิง |  |
+| 07 | การนิยาม Commands และ Environments |  |
+| 08 | การทำเอกสารภาษาไทย |  |
+| 09 | การทำเอกสารนำเสนอทางวิชาการ |  |
+| 10 | การเขียนโครงงานคณิตศาสตร์ (ภาษาไทย) |  |
+| 11 | การเขียนโครงงานคณิตศาสตร์ (English) |  |
 
 ## การวัดผลการเรียน
 คะแนนเต็ม 100 คะแนน โดยแบ่งออกเป็น
