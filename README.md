@@ -42,7 +42,7 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 
 | LAB |    หัวข้อปฏิบัติการ  |       |
 |-----|-----------------|-------|
-| 01 | การใช้งาน LaTeX พื้นฐาน | [คำสั่ง](/workshops/01/) <br> [Download](/workshops/01/doc.pdf) |
+| 01 | การใช้งาน LaTeX พื้นฐาน | [Description](/workshops/01/) <br> [Download](/workshops/01/doc.pdf) |
 | 02 | การเรียงพิมพ์ทางคณิตศาสตร์พื้นฐาน |  |
 | 03 | การเรียงพิมพ์ทางคณิตศาสตร์ที่มีความซับซ้อน |  |
 | 04 | การเรียงพิมพ์นิยาม ทฤษฎี และบทพิสูจน์ทางคณิตศาสตร์ |  |
