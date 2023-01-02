@@ -45,6 +45,8 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 | 01 | การใช้งาน LaTeX พื้นฐาน | [Description](./workshops/01/) <br> [Download](./workshops/01/doc.pdf) |
 | 02 | การสร้างเอกสารประเภทบทความ | [Description](./workshops/02/) <br> [Download](./workshops/02/doc.pdf) |
 | 03 | การสร้างเอกสารประเภทหนังสือ | [Description](./workshops/03/) <br> [Download](./workshops/03/doc.pdf) |
+| 04 | การสร้างเอกสารประเภทรายงาน | [Description](./workshops/04/) <br> [Download](./workshops/04/doc.pdf) |
+
 
 
 ## การวัดผลการเรียน
