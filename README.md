@@ -46,6 +46,8 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 | 02 | การสร้างเอกสารประเภทบทความ | [Description](./workshops/02/) <br> [Download](./workshops/02/doc.pdf) |
 | 03 | การสร้างเอกสารประเภทหนังสือ | [Description](./workshops/03/) <br> [Download](./workshops/03/doc.pdf) |
 | 04 | การสร้างเอกสารประเภทรายงาน | [Description](./workshops/04/) <br> [Download](./workshops/04/doc.pdf) |
+| 05 | การสร้างเอกสารด้านคณิตศาสตร์ | [Description](./workshops/05/) <br> [Download](./workshops/05/doc.pdf) |
+| 06 | การสร้างเอกสารด้านคณิตศาสตร์ที่มีตารางและรูปภาพ | [Description](./workshops/06/) <br> [Download](./workshops/06/doc.pdf) |
 
 
 
