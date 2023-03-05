@@ -35,7 +35,7 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 |03 | การเรียงพิมพ์อักขระทางคณิตศาสตร์ - Typesetting Mathematical Formulae | การเรียงพิมพ์นิพจน์ทางคณิตศาสตร์, ตัวอย่างการเรียงพิมพ์งานทางคณิตศาสตร์ที่น่าสนใจ, การเรียงพิมม์สัญกรณ์ทางคณิตศาสตร์ (Mathematical Symbols) | [Tutorial](/materials/ch_03.pdf) <br> [Slide 5](./materials/slides/basic_math.pdf) <br> [Slide 6](./materials/slides/theorem.pdf) |
 |04 | หัวข้อพิเศษของเอกสาร - Specialities | การทำรายการดัชนี, การทำบรรณานุกรม, ข้อสำคัญและข้อควรระวังในการจัดเอกสาร | [Tutorial](/materials/ch_04.pdf) <br> [Slide 7](./materials/slides/references.pdf) |
 |05 | กราฟฟิคในงานคณิตศาสตร์ - Producing Mathematical Graphics | การทำกราฟฟิคทางคณิตศาตร์แบบเวกเตอร์ , ตัวอย่างการทำกราฟฟิคทางคณิตศาสตร์ที่น่าสนใจ | [Tutorial](/materials/ch_05.pdf) |
-|06 | การจัดเตรียมเอกสารขั้นสูง - Customising LaTeX | การดัดแปลงเอกสารมาตรฐาน, การนิยาม Commands และ Environments โดยผู้ใช้, การเรียกใช้งานแพคเกจเพิ่มเติม | [Tutorial](/materials/ch_06.pdf) |
+|06 | การจัดเตรียมเอกสารขั้นสูง - Customising LaTeX | การดัดแปลงเอกสารมาตรฐาน, การนิยาม Commands และ Environments โดยผู้ใช้, การเรียกใช้งานแพคเกจเพิ่มเติม | [Tutorial](/materials/ch_06.pdf) <br> [Beamer](./materials/slides/beamer.pdf) |
 
 
 ## งานปฏิบัติการ Workshops
@@ -50,6 +50,7 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 | 06 | การสร้างเอกสารด้านคณิตศาสตร์ที่มีตารางและรูปภาพ | [Description](./workshops/06/) <br> [Download](./workshops/06/doc.pdf) |
 | 07 | การสร้างเอกสารด้านคณิตศาสตร์ที่มีนิยาม ทฤษฎีบท และการพิสูจน์| [Description](./workshops/07/) <br> [Download](./workshops/07/doc.pdf) |
 | 08 | การจัดการเอกสารอ้างอิง และเรียงพิมพ์บรรณานุกรม| [Description](./workshops/08/) <br> [Download](./workshops/08/doc.pdf) |
+| 09 | การจัดเตรียมงานนำเสนอด้วยแพคเกจ beamer| [Description](./workshops/09/) <br> [Download](./workshops/09/doc.pdf) |
 
 
 
