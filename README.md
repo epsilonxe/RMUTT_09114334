@@ -1,7 +1,7 @@
 # RMUTT 09114334
 Official Repository for RMUTT 09114334: ระบบการจัดเตรียมเอกสารอย่างมืออาชีพ -  Professional Document Preparation System
 
-Lecturer: Ratthaprom Promkam, Dr.rer.nat <br>
+<!-- Lecturer: Ratthaprom Promkam, Dr.rer.nat <br> -->
 Lecturer: Wongvisarut Khuangsatung, Asst.Prof.Dr.
 
 ![LaTeX Cover](/materials/latex_cover.jpg)
