@@ -19,9 +19,8 @@ TeX engines, LaTeX engines, common elements in documents, mechanics of typesetti
 
 |Section|   Date | Lecture | Workshop | MS-Teams |
 |-------|--------|---------|----------|----------|
-sec01 (AM66111) | 13.00 - 15.00  |15.00 - 17.00 |  `3lm634q`
-----------------|----------------|--------------|---------
-sec02 (AM67111) | 08.00 - 10.00  |10.00 - 12.00 |  `4ohn72o` 
+|sec01 (AM66111) | TUE | 13.00 - 15.00  |15.00 - 17.00 |  `3lm634q`|
+|sec02 (AM67111) | TUE | 08.00 - 10.00  |10.00 - 12.00 |  `4ohn72o` |
 
 
 สอบกลางภาค: TBA <br>
